@@ -418,5 +418,4 @@ pos-inventory/
 ## Lisensi
 
 Proyek ini dibuat untuk keperluan pembelajaran. Silakan digunakan dan dimodifikasi sesuai kebutuhan.
-#   p o s - i n v e n t o r y  
- 
+#
